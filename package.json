@@ -2,7 +2,7 @@
   "name": "fitfoodapi",
   "version": "1.0.0",
   "description": "calories of the food you eat, you are what you eat",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
